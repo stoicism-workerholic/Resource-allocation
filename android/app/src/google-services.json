@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389170413352",
+    "project_id": "resource-4dd86",
+    "storage_bucket": "resource-4dd86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389170413352:android:fedf1f7fe27c546a0c1a1d",
+        "android_client_info": {
+          "package_name": "com.loreen.hlohi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzKUxdGFRbNUMTARwR5MEUA5zOiIcmyd0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
